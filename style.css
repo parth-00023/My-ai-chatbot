@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background: linear-gradient(135deg, #1e1e2f, #121212);
+  color: white;
+}
+
+.chat-container {
+  width: 400px;
+  margin: 50px auto;
+  background: #1f1f2e;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+#chat-box {
+  height: 400px;
+  overflow-y: auto;
+}
